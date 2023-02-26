@@ -1,16 +1,15 @@
-### Hi there 👋
+![image](https://github.com/EternalProtocol/img/blob/main/ETPIMG.png) <br>
 
-<!--
-**EternalProtocol/EternalProtocol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Eternal protocol <br>
 
-Here are some ideas to get you started:
+## 이 기술 백서는 Eternal protocol의 핵심 계약 뒤에 디자인 논리와 <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 경제적 모델의 일부를 설명합니다.그것은 NFT, WEB3, DEFI 생태에<br>
+
+## 기반한 새로운 프로토콜을 달성하기 위해 TOKEN 계약의 기능과 호환됩니다.<br>
+
+## Eternal protocol은 블록 체인 경제의 인플레이션 및 디플레이션 문제를 해결하기 <br>
+
+## 위해 사용되는 차세대 생태 프로토콜입니다.단순히 하나의 TOKEN으로만 사용되는 <br>
+
+##  것이 아닙니다.전체 다중 체인 생태를 해결하는 데 사용됩니다. <br>
